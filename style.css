@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&family=Barlow:wght@500;700;900&family=Big+Shoulders+Display:wght@300;800;900&family=DM+Serif+Display&family=Hanken+Grotesk:wght@500;700;800&family=IBM+Plex+Sans:wght@400;700&family=Josefin+Sans:wght@300;400&family=Kumbh+Sans:wght@400;700&family=Open+Sans:wght@400;700&family=Outfit:wght@300&family=Plus+Jakarta+Sans:wght@500;700;800&family=Poppins:wght@300;400;600&family=Red+Hat+Display:wght@500;900&family=Roboto:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    font-family: Big Shoulders Display, Outfit;
+    display: grid;
+    justify-content: center;
+}
+.main{
+    display: grid;
+    justify-content: center;
+}
+.bebo{
+    width: 375px;
+    height: 240px;
+}
+
+.art{
+    width: 343px;
+    color:#151515;
+    font-size: 60px;
+    line-height: 55px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 32px;
+    margin-left: 16px;
+}
+.the{
+    width: 343px;
+    margin-top: 32px;
+    margin-left: 16px;
+    color: #444;
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+}
+.button{
+    margin-top: 32px;
+    margin-left: 16px;
+}
+.meore{
+    margin-top: 120px;
+}
+.garage{
+    margin-left: 16px;
+}
+.day{
+    margin-top: 25px;
+    margin-left: 16px;
+    width: 343px;
+    font-size: 50px;
+    line-height: 45px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.skami{
+    margin-left: 16px;
+}
+.mesame{
+    margin-top: 32px;
+}
+.otaxi{
+    margin: 16px 16px;
+}
+.come{
+    color: white;
+    width: 223px;
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 16px;
+    line-height: 45px;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 48px;
+}
+.shavi{
+    background-color: #151515;
+    width: 343px;
+    position: relative;
+    margin: 16px 16px;
+    height: 293px;
+}
+.we{
+    width: 295px;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 24px 24px;
+    position: absolute;
+    margin-top: 162px;
+}
+footer{
+    margin-top: 110px;
+    background-color: #151515;
+    width: 375px;
+    height: 336px;
+}
+.mod{
+    margin-top: 48px;
+    margin-left: 32px;
+}
+.ars{
+    width: 311px;
+    color: white;
+    font-weight: 300;
+    line-height: 26px;
+    font-size: 16px;
+    margin-top: 38px;
+    margin-left: 32px;
+}
+.fc{
+    margin-top: 38px;
+    margin-left: 32px;
+}
+.none{
+    display: none;
+}
+.zz{
+    display: none;
+}
+
+.asi{
+    display: none;
+}
