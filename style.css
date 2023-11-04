@@ -128,3 +128,72 @@ footer{
 .asi{
     display: none;
 }
+.but{
+    position: absolute;
+    display: flex;
+    width: 258px;
+    height: 72px;
+    background-color: #151515;
+}
+.but:hover{
+    background-color: #D5966C;
+    cursor: pointer;
+}
+.home{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 3.636px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.mrs{
+    width: 375px;
+    height: 493px;
+    background-color: #151515;
+}
+.King{
+    margin-left: 20px;
+}
+.our{
+    margin-left: 16px;
+    margin-bottom: 40px;
+    width: 343px;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.ssr{
+    width: 375px;
+    height: 336px;
+    background-color: #D5966C;    
+}
+.sami{
+    margin-top: 48px;
+    margin-left: 32px;
+}
+.wn{
+    display: none;
+}
+.ori{
+    margin-left: 32px;
+    margin-top: 38px;
+}
+.erti{
+    margin-left: 32px;
+    margin-top: 38px;
+}
+.tar{
+    display: none;
+}
+.wa{
+    margin-left: 31px;
+}
+.bu{
+    margin-top: 533px;
+}
+.jcc{
+    display: grid;
+    justify-content: center;
+}

@@ -57,7 +57,7 @@
         height: 325px;
     }
     footer{
-        width: 768px;
+        width: 100%;
         display: flex;
         height: 216px;
     }
@@ -77,6 +77,49 @@
         margin-top: 90px;
         margin-left: 40px;
     }
+    .mrs{
+        display: flex;
+        width: 768px;
+        height: 450px;
+    }
+    .King{
+        height: 270px;
+        margin-top: 88px;
+        margin-left: 68px;
+    }
+    .our{
+        width: 223px;
+        font-size: 55px;
+        margin-left: 40px;
+        margin-top: 88px;
+    }
+    .ssr{
+        display: flex;
+        width: 768px;
+        height: 216px;
+    }
+    .sami{
+        width: 110px;
+        margin-left: 40px;
+    }
+    .ori{
+        width: 281px;
+        margin-left: 64px;
+    }
+    .erti{
+        width: 100px;
+        margin-left: 103px;
+    }
+
+
+    
+    .map{
+        display: none;
+        
+    }
+    .wn{
+        display: block;
+    }
 }
 @media(width > 1440px){
     .xx{
@@ -87,16 +130,12 @@
     }
     footer{
         width: 100%;
-        border: 2px solid blue;
     }
     .raxdeba{
         width: 100%;
     }
     .asi{
         width: 100%;
-    }
-    .main{
-        border: 2px solid black;
     }
     body{
         width: 100%;
@@ -152,7 +191,7 @@
         display: none;
     }
     footer{
-        width: 100%;
+        width: 100vw;
         display: flex;
         justify-content: center;
         position: relative;
@@ -164,6 +203,52 @@
     .mod{
         position: absolute;
         left: 50px;
+    }
+    .ars{
+        font-size: 20px;
+        width: 300px;
+    }
+    .tar{
+        display: block;
+        width: 100vw;
+    }
+    .wn{
+        display: none;
+    }
+    .but{
+        left: 10%;
+    }
+    .mrs{
+        width: 100vw;
+        height: 500px;
+    }
+    .our{
+        margin-left: 20%;
+
+    }
+    .King{
+        margin-left: 30%;
+    }
+    .ssr{
+        width: 100vw;
+    }
+    .sami{
+        margin-left: 20%;
+    }
+    .ori{
+        margin-left: 20%;
+    }
+    .erti{
+        margin-left: 20.4%;
+    }
+    .bu{
+        position: absolute;
+        left: 70%;
+        top: -5.6%;
+    }
+    .main{
+        width: 1440px;
+        position: relative;
     }
     
 }
